@@ -2,4 +2,4 @@ console.log('Hello World!!');
 console.log('Checking the Jenkins job is running automatically or not');
 console.log('Testing again after editing webhook Jenkins job is running automatically or not');
 console.log('Testing new pipeline');
-console.log('Testing new pipeline agin and again after changing branch from master to main in jenkins');
+console.log('Testing free style project');
